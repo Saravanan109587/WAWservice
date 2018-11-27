@@ -1,0 +1,17 @@
+D:\OProjects\WildAbout\WAWEntity\bin\Release\netstandard2.0\WAWEntity.deps.json
+D:\OProjects\WildAbout\WAWEntity\bin\Release\netstandard2.0\WAWEntity.dll
+D:\OProjects\WildAbout\WAWEntity\bin\Release\netstandard2.0\WAWEntity.pdb
+D:\OProjects\WildAbout\WAWEntity\obj\Release\netstandard2.0\WAWEntity.csproj.CoreCompileInputs.cache
+D:\OProjects\WildAbout\WAWEntity\obj\Release\netstandard2.0\WAWEntity.AssemblyInfoInputs.cache
+D:\OProjects\WildAbout\WAWEntity\obj\Release\netstandard2.0\WAWEntity.AssemblyInfo.cs
+D:\OProjects\WildAbout\WAWEntity\obj\Release\netstandard2.0\WAWEntity.dll
+D:\OProjects\WildAbout\WAWEntity\obj\Release\netstandard2.0\WAWEntity.pdb
+D:\OProjects\WildAbout\Service\WAWAPI\WAWEntity\bin\Release\netstandard2.0\WAWEntity.deps.json
+D:\OProjects\WildAbout\Service\WAWAPI\WAWEntity\bin\Release\netstandard2.0\WAWEntity.dll
+D:\OProjects\WildAbout\Service\WAWAPI\WAWEntity\bin\Release\netstandard2.0\WAWEntity.pdb
+D:\OProjects\WildAbout\Service\WAWAPI\WAWEntity\obj\Release\netstandard2.0\WAWEntity.csproj.CoreCompileInputs.cache
+D:\OProjects\WildAbout\Service\WAWAPI\WAWEntity\obj\Release\netstandard2.0\WAWEntity.AssemblyInfoInputs.cache
+D:\OProjects\WildAbout\Service\WAWAPI\WAWEntity\obj\Release\netstandard2.0\WAWEntity.AssemblyInfo.cs
+D:\OProjects\WildAbout\Service\WAWAPI\WAWEntity\obj\Release\netstandard2.0\WAWEntity.dll
+D:\OProjects\WildAbout\Service\WAWAPI\WAWEntity\obj\Release\netstandard2.0\WAWEntity.pdb
+D:\OProjects\WildAbout\Service\WAWAPI\WAWEntity\obj\Release\netstandard2.0\WAWEntity.csprojAssemblyReference.cache

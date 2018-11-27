@@ -1,0 +1,12 @@
+D:\OProjects\WildAbout\WAWAPI\WAWRepo\bin\Debug\netstandard2.0\WAWEntity.dll
+D:\OProjects\WildAbout\WAWAPI\WAWRepo\obj\Debug\netstandard2.0\WAWRepo.csprojAssemblyReference.cache
+D:\OProjects\WildAbout\WAWAPI\WAWRepo\obj\Debug\netstandard2.0\WAWRepo.csproj.CoreCompileInputs.cache
+D:\OProjects\WildAbout\WAWAPI\WAWRepo\obj\Debug\netstandard2.0\WAWRepo.AssemblyInfoInputs.cache
+D:\OProjects\WildAbout\WAWAPI\WAWRepo\obj\Debug\netstandard2.0\WAWRepo.AssemblyInfo.cs
+D:\OProjects\WildAbout\WAWAPI\WAWRepo\bin\Debug\netstandard2.0\WAWRepo.deps.json
+D:\OProjects\WildAbout\WAWAPI\WAWRepo\bin\Debug\netstandard2.0\WAWRepo.dll
+D:\OProjects\WildAbout\WAWAPI\WAWRepo\bin\Debug\netstandard2.0\WAWRepo.pdb
+D:\OProjects\WildAbout\WAWAPI\WAWRepo\bin\Debug\netstandard2.0\WAWEntity.pdb
+D:\OProjects\WildAbout\WAWAPI\WAWRepo\obj\Debug\netstandard2.0\WAWRepo.csproj.CopyComplete
+D:\OProjects\WildAbout\WAWAPI\WAWRepo\obj\Debug\netstandard2.0\WAWRepo.dll
+D:\OProjects\WildAbout\WAWAPI\WAWRepo\obj\Debug\netstandard2.0\WAWRepo.pdb

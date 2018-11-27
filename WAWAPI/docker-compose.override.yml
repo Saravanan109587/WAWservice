@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  wawapi:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5656"
+
+networks:
+  default:
+    external:
+      name: nat

@@ -1,0 +1,27 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  wawapi:
+    build:
+      context: D:\OProjects\WildAbout\Service\WAWAPI
+      dockerfile: WAWAPI\Dockerfile
+    entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus
+      /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /fallbackloadremotemanagedpdbs
+      /timeout:2147483646
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: wawapi
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath c:\.nuget\packages
+        --additionalProbingPath c:\.nuget\fallbackpackages  WAWAPI.dll'
+      com.microsoft.visualstudio.debuggee.killprogram: C:\remote_debugger\x64\utils\KillProcess.exe
+        dotnet.exe
+      com.microsoft.visualstudio.debuggee.program: '"C:\Program Files\dotnet\dotnet.exe"'
+      com.microsoft.visualstudio.debuggee.workingdirectory: C:\app
+    ports:
+    - target: 80
+    volumes:
+    - C:\Users\Admin\onecoremsvsmon\15.0.27703.2026:C:\remote_debugger:ro
+version: '3.4'

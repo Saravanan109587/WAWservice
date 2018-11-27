@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  wawapi:
+    image: ${DOCKER_REGISTRY}wawapi
+    build:
+      context: .
+      dockerfile: WAWAPI\Dockerfile

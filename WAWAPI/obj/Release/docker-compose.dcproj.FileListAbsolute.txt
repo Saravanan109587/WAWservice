@@ -1,0 +1,2 @@
+D:\OProjects\WildAbout\WAWAPI\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache
+D:\OProjects\WildAbout\Service\WAWAPI\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache
